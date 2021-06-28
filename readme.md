@@ -12,3 +12,7 @@
 |3|4|
 
 ![A dog](./sources/img)
+
+```js
+const toto = 'tata'
+```
